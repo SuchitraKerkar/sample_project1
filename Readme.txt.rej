@@ -1,0 +1,7 @@
+diff a/Readme.txt b/Readme.txt	(rejected hunks)
+@@ -0,0 +1,5 @@
++1. clone
++2. fetch
++3. pull
++4. checkout
++5. stage
